@@ -1,9 +1,62 @@
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+[
+  {
+    "id": 1,
+    "name": "Amul Milk Chocolate",
+    "price": 2.99,
+    "src": "./asset/images/Amul Milk Chocolate.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "5 Star",
+    "price": 1.99,
+    "src": "./asset/images/5 Star.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Amul Sugar Free",
+    "price": 3.49,
+    "src": "./asset/images/Amul Sugar Free.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Chocomini",
+    "price": 4.99,
+    "src": "./asset/images/chocomini.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Dairy Milk",
+    "price": 2.49,
+    "src": "./asset/images/Dairy Milk.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Galaxy Choco",
+    "price": 3.99,
+    "src": "./asset/images/Galaxy Choco.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Hershey's Choco",
+    "price": 2.79,
+    "src": "./asset/images/Hershey's choco.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Hershey's Milk Chocolate",
+    "price": 3.29,
+    "src": "./asset/images/hershey's Milk Chocolate.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Munch Home Pack",
+    "price": 1.49,
+    "src": "./asset/images/Munch Home Pack.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Snickers",
+    "price": 2.99,
+    "src": "./asset/images/Snickers.jpeg"
+  },
+]
